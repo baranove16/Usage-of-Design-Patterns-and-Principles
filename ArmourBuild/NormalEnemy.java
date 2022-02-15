@@ -16,6 +16,7 @@ public class NormalEnemy extends Armour{
         if (i == 0){rarity = "Common"; mod1 = "";}
         else
         {armour = new Uncommon(armour);
+        rarity = "Uncommon";
         mod1 = armour.getDescription();}
         
         
