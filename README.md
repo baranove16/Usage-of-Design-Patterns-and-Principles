@@ -34,4 +34,5 @@ Interface Segregation Principle (user should not need to implement an interface 
 
 UML Diagram of Refactored Code
 
-![image](https://user-images.githubusercontent.com/89663127/154097520-4913c559-29ff-440a-902f-2b79e99f2e69.png)
+![image](https://user-images.githubusercontent.com/89663127/154098238-5b83dbb5-6828-417e-9794-616f5ca69c31.png)
+
